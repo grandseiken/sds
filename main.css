@@ -48,6 +48,11 @@ img {
 h1 {
   font-weight: 1000;
   font-size: 20vw;
+  line-height: 75%;
+}
+
+h4 {
+  font-size: 5vw;
 }
 
 h1, h2, h3, h4, h5, h6 {
