@@ -27,7 +27,6 @@ dl, dd, ol, ul, figure {
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
-  line-height: 1.5;
   font-weight: 300;
   color: #839496;
   background-color: #002a35;
@@ -48,11 +47,12 @@ img {
 h1 {
   font-weight: 1000;
   font-size: 20vw;
-  line-height: 75%;
+  line-height: 80%;
 }
 
 h4 {
   font-size: 5vw;
+  line-height: 80%;
 }
 
 h1, h2, h3, h4, h5, h6 {
